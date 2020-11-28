@@ -14,7 +14,7 @@ room.pluginSpec = {
     // Message to be displayed when player joins.
     // You can use {player} to address the joined player.
     // e.g. `Welcome, {player}!`
-    joinMessage: `Welcome {player}! Type !help for commands.`,
+    joinMessage: `OLÁ {player}! SERVIDOR EM CONSTRUÇÃO. DISCORD https://discord.gg/5Tvs64TnG4`,
     // Message to be displayed repeatedly at speed of given `interval`.
     repeatedMessage: ``,
     // How often to display the `repeatedMessage` (or `message` if former 
