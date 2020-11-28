@@ -12,6 +12,7 @@ This repository offers folowing plugins:
 - [hr/kickban](src/hr/kickban.js)
 - [hr/maps](src/hr/maps.js)
 - [hr/motd1](src/hr/motd1.js)
+- [hr/motd2](src/hr/motd2.js)
 - [hr/mute](src/hr/mute.js)
 - [hr/pause](src/hr/pause.js)
 - [hr/simple-commands](src/hr/simple-commands.js)
