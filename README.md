@@ -11,7 +11,7 @@ This repository offers folowing plugins:
 - [hr/game-mode](src/hr/game-mode.js)
 - [hr/kickban](src/hr/kickban.js)
 - [hr/maps](src/hr/maps.js)
-- [hr/motd](src/hr/motd.js)
+- [hr/motd1](src/hr/motd1.js)
 - [hr/mute](src/hr/mute.js)
 - [hr/pause](src/hr/pause.js)
 - [hr/simple-commands](src/hr/simple-commands.js)
