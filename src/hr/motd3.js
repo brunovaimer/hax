@@ -14962,7 +14962,7 @@ var commands = {
     "!REN": RennesFun,
     "!NYV": FCNyvaVinnytsiaFun,
 
-    "!mapas": MapasFun,
+    "!mapas22": MapasFun,
     "!gkhelp": gkHelpFun,
     "!adminhelp": adminHelpFun,
     "!rankhelp": rankHelpFun,
