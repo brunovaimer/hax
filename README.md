@@ -23,6 +23,7 @@ This repository offers folowing plugins:
 - [hr/motd11](src/hr/motd11.js)
 - [hr/motd12](src/hr/motd12.js)
 - [hr/motd13](src/hr/motd13.js)
+- [hr/motd13](src/hr/motd14.js)
 - [hr/mute](src/hr/mute.js)
 - [hr/pause](src/hr/pause.js)
 - [hr/simple-commands](src/hr/simple-commands.js)
