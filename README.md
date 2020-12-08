@@ -13,6 +13,7 @@ This repository offers folowing plugins:
 - [hr/maps](src/hr/maps.js)
 - [hr/motd1](src/hr/motd1.js)
 - [hr/motd2](src/hr/motd2.js)
+- [hr/motd78](src/hr/motd78.js)
 - [hr/motd3](src/hr/motd3.js)
 - [hr/motd4](src/hr/motd3.js)
 - [hr/motd17](src/hr/motd17.js)
