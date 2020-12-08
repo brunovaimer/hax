@@ -12,6 +12,7 @@ This repository offers folowing plugins:
 - [hr/kickban](src/hr/kickban.js)
 - [hr/maps](src/hr/maps.js)
 - [hr/motd1](src/hr/motd1.js)
+- [hr/motd31](src/hr/motd31.js)
 - [hr/motd2](src/hr/motd2.js)
 - [hr/motd78](src/hr/motd78.js)
 - [hr/motd3](src/hr/motd3.js)
